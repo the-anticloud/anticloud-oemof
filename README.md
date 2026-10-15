@@ -2,9 +2,9 @@
 
 ![licence](https://img.shields.io/badge/licence-MIT-blue) ![offline-first](https://img.shields.io/badge/offline--first-air--gap-green) ![audit](https://img.shields.io/badge/audit-SHA3--256-orange) ![checks](https://img.shields.io/badge/checks-unknown_PASS-brightgreen)
 
-> Governed Anticloud packaging of the upstream project `OEMOF` in category **SOLAR**. check results: see ISOLATED_LAB_RESULTS. Every number below traces to a named file + run stamp; nothing is borrowed from other projects.
+> Governed Anticloud packaging of the upstream project `OEMOF` in category **CARBON_CAPTURE**. check results: see ISOLATED_LAB_RESULTS. Every number below traces to a named file + run stamp; nothing is borrowed from other projects.
 
-**Upstream:** OEMOF · **Upstream pin:** `d2d7502862c8eec6963de97d9710bc27e4a41a5c` · **Category:** SOLAR · **Vendor:** Anticloud FZ LLE · **Licence:** MIT
+**Upstream:** OEMOF · **Upstream pin:** `d2d7502862c8eec6963de97d9710bc27e4a41a5c` · **Category:** CARBON_CAPTURE · **Vendor:** Anticloud FZ LLE · **Licence:** MIT
 
 ---
 
@@ -249,3 +249,5 @@ The PAX benchmark release was distributed by Newsfile wire to 336 outlets
 Wire distribution makes the announcement dated, public, and indexed, which
 makes the claim checkable.
 
+
+> Note: a same-named project in another category is the canonical published copy; this directory is retained as a local reference and is not published separately.
