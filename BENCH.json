@@ -1,20 +1,23 @@
 {
-  "all_passed": true,
-  "passed": 0,
-  "failed": 0,
-  "total": 0,
-  "method": "not applicable (doc-only/design/government/media)",
-  "platform": "unknown",
-  "python": "unknown",
-  "root": "CARBON_CAPTURE/OEMOF",
-  "sbom_written": false,
-  "schema": "1.0",
-  "version": "0.1.0",
-  "source": {
-    "git": {
-      "url": "",
-      "head": "",
-      "tree_sha3": "b34bf002b7f4c6bfa1124e99a92c4e2a1ec1d15f3571db8a75a0f546cab465ba"
-    }
+ "all_passed": false,
+ "passed": 0,
+ "failed": 0,
+ "total": 0,
+ "method": "not applicable (doc-only/design/government/media)",
+ "platform": "unknown",
+ "python": "unknown",
+ "root": "CARBON_CAPTURE/OEMOF",
+ "sbom_written": false,
+ "schema": "1.0",
+ "version": "0.1.0",
+ "source": {
+  "git": {
+   "url": "",
+   "head": "",
+   "tree_sha3": "b34bf002b7f4c6bfa1124e99a92c4e2a1ec1d15f3571db8a75a0f546cab465ba",
+   "pin_kind": "tree_sha3",
+   "pin_kind_note": "content pin \u2014 SHA3-256 over the vendored tree on disk (paths+contents, .git excluded). Verifiable by re-walking the tree."
   }
+ },
+ "all_passed_note": "unmeasured: no benchmark rows on disk; not passed by inference"
 }
